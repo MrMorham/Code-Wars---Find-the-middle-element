@@ -18,7 +18,7 @@ namespace Code_Wars___Find_the_middle_element
             double[] test1 = { 2, 1, 3 };
             double[] test2 = { 10, 15, 14 };
 
-            double Output = 0;
+            double Position = 0;
 
             double FindMiddle (double[] input)
             {
@@ -26,16 +26,17 @@ namespace Code_Wars___Find_the_middle_element
                 {
                     if(a != input.Min() && a != input.Max())
                     {
-                        Output = a;
+                       return Position;
                     }
+
+                    Position++;
                 }
 
-
-                return Output;
+                return Position;
             }
 
-            Console.WriteLine($"{FindMiddle(test1)}");
-            Console.WriteLine($"{FindMiddle(test2)}");
+            Console.WriteLine($"The middle value is held in position {FindMiddle(test1)}");
+            Console.WriteLine($"The middle value is held in position {FindMiddle(test2)}");
             Console.ReadLine();
         }
     }
