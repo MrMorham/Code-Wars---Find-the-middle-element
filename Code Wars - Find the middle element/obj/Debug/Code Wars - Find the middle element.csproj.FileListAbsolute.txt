@@ -1,0 +1,7 @@
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Code Wars - Find the middle element\Code Wars - Find the middle element\obj\Debug\Code Wars - Find the middle element.csprojAssemblyReference.cache
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Code Wars - Find the middle element\Code Wars - Find the middle element\obj\Debug\Code Wars - Find the middle element.csproj.CoreCompileInputs.cache
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Code Wars - Find the middle element\Code Wars - Find the middle element\bin\Debug\Code Wars - Find the middle element.exe.config
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Code Wars - Find the middle element\Code Wars - Find the middle element\bin\Debug\Code Wars - Find the middle element.exe
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Code Wars - Find the middle element\Code Wars - Find the middle element\bin\Debug\Code Wars - Find the middle element.pdb
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Code Wars - Find the middle element\Code Wars - Find the middle element\obj\Debug\Code Wars - Find the middle element.exe
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Code Wars - Find the middle element\Code Wars - Find the middle element\obj\Debug\Code Wars - Find the middle element.pdb
